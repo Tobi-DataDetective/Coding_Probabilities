@@ -1,5 +1,5 @@
 # PROBABILITY THEORY
-The sole purpose of this repo is to illustrate the various ways on can code probabilities.
+The sole purpose of this repo is to illustrate the various ways one can code probabilities.
 
 **Probability theory**, a branch of mathematics concerned with the analysis of random phenomena. The outcome of a random event cannot be determined before it occurs, but it may be any one of several possible outcomes. The actual outcome is considered to be determined by chance.
 
